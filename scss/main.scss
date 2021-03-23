@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+// Base Files
+@import "base/variables";
+@import "base/general";
+
+// Components Files
+@import "components/buttons";
+
+// Layout Files
+@import "layout/header";
+@import "layout/footer";
+@import "layout/pages/home";
+
+// Responsive Files
+@import "responsive/all";
